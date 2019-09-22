@@ -1,0 +1,35 @@
+.js-column-header, .js-app-header, .js-int-scroller, .js-column-nav-list, .column-nav-item, .app-navigator, .app-title, .js-detail-header, .compose-text-container {
+    background-color: #ffe8ed;
+}
+ 
+.icon-sliders, .icon-medium, .column-type-icon, .icon-compose-dm, .icon-mark-read, .js-content-filter-summary, .js-preferences-summary, .icon-search {
+    color: black !important;
+}
+ 
+.fullname {
+    color: #665C5E;
+}
+ 
+.compose, .compose-remember-state, .old-composer-footer {
+    background-color: #E5D0D5;
+}
+ 
+a, txt-link, a:focus, a:hover, .color-twitter-blue, .js-other-replies-link {
+    color: #FF9CB1;
+}
+ 
+.Button, .btn-on-blue, .Button--primary {
+    background-color: black !important;
+}
+ 
+.Button, .app-search-fake, .Button--primary {
+    border: 1px solid black !important;
+}
+ 
+.compose-text-title {
+    color: #fff!important;
+}
+ 
+.compose-text-container {
+    background-color: #fff!important
+}
