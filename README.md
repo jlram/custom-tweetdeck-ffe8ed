@@ -1,4 +1,4 @@
-# 1. Install guide
+# 1. Installation guide
 - Set "light theme" on your tweetdeck settings 
 - Install BetterTweetdeck browser extension
 - Open your BetterTweetdeck Menu
